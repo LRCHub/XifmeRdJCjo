@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "爆弾魔 (Re-Recording)",
+  "base_artist": "Yorushika",
+  "createdAt": "2025-12-03T23:16:36.569732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "爆弾魔",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_爆弾魔_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "爆弾魔",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_爆弾魔_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "爆弾魔 - Re-Recording",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_爆弾魔_-_Re-Recording_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "爆弾魔 - Re-Recording",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_爆弾魔_-_Re-Recording_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "爆弾魔",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_爆弾魔_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "爆弾魔",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/06_爆弾魔_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "爆弾魔 (Re-Recording)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_爆弾魔_(Re-Recording)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "爆弾魔",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/08_爆弾魔_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "爆弾魔",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/09_爆弾魔_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "爆弾魔 (Bomber)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/10_爆弾魔_(Bomber)_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "爆弾魔",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/pl_01_爆弾魔_Yorushika.txt"
+    }
+  ]
+}
