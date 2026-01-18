@@ -1,4 +1,4 @@
-# Yorushika – 爆弾魔 (Re-Recording)
+# Yorushika – 爆弾魔 (Re-Recording) - Bomber (Re-Recording)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
