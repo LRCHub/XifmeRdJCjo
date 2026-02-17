@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "爆弾魔 (Re-Recording)",
-  "base_artist": "Yorushika",
-  "createdAt": "2025-12-03T23:16:36.569732Z",
+  "base_track": "爆弾魔",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-17T18:09:33.559433Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -88,9 +88,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "爆弾魔",
-      "artist": "Yorushika",
+      "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_爆弾魔_Yorushika.txt"
+      "path": "select/pl_01_爆弾魔_ヨルシカ.txt"
     }
   ]
 }
